@@ -9,6 +9,7 @@ Résultat → ConnectorX explose Pandas en vitesse et en consommation RAM.
 Si vous travaillez en data engineering, data science ou analytics, ce truc va clairement changer votre workflow.
 
 On va voir :
+
 • Pourquoi connectorx.read_sql est aussi rapide
 • Comment l’installer et l’utiliser en 3 lignes
 • Comparaison de performance réelle
