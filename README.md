@@ -1,4 +1,5 @@
 Vous chargez encore vos données avec pandas.read_sql… en attendant que ça finisse ?
+
 Il est peut-être temps de changer d’arme.
 
 Dans cette vidéo, on découvre ConnectorX, un outil ultra-performant pour ingérer des données depuis vos bases SQL (PostgreSQL, MySQL, MariaDB, Snowflake, Redshift, etc.) directement dans Python, jusqu’à 21x plus rapide et 3x moins gourmand en mémoire que les solutions habituelles.
