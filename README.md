@@ -11,8 +11,11 @@ Si vous travaillez en data engineering, data science ou analytics, ce truc va cl
 On va voir :
 
 • Pourquoi connectorx.read_sql est aussi rapide
+
 • Comment l’installer et l’utiliser en 3 lignes
+
 • Comparaison de performance réelle
+
 • Quand l’utiliser plutôt que Pandas
 
 Spoiler : votre pipeline va vous dire merci.
